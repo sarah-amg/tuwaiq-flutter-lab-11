@@ -4,4 +4,8 @@
 
 ### Note accepted submission MUST contain app demo record!
 
-Note: Name your app Your name-lab11
+Note: Name your app Your name-lab11 
+
+---
+
+I could not record the video, the program is not working.. I will try to solve the problem
